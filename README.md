@@ -14,7 +14,7 @@
 
 Download the compiled, standalone JAR file ready to load into Burp Suite:
 
-👉 **[📥 Download LFI-Tornado-5.5.0.jar (Latest Release)](https://github.com/XploitAsh/lfi-tornado/releases/download/v5.5.0/LFI-Tornado-5.5.0.jar)**
+👉 **[📥 Download LFI-Tornado-5.5.0.jar (Latest Release)](https://github.com/XploitAsh/Lfi-Tornado-Burp-ext/releases/download/v5/LFI-Tornado-5.5.0.jar)**
 
 *(No compilation or Gradle installation required! Works directly out of the box).*
 
